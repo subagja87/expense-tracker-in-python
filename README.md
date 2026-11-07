@@ -32,13 +32,13 @@ The application uses Python's built-in modules:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/subagja87/expense-tracker-in-python.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd expense-tracker
+   cd expense-tracker-in-python
    ```
 
 3. Run the application:
@@ -46,8 +46,6 @@ The application uses Python's built-in modules:
    ```bash
    python app.py --help
    ```
-
-Replace `your-username` with your actual GitHub username.
 
 ## Usage
 
